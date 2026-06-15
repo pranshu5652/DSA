@@ -3,7 +3,7 @@
 import java.util.*;
 public class moveZeroes {
         // Function to move zeroes to the end
-        public void moveZeroes(int[] nums) {
+        public void moveZeroe(int[] nums) {
             // Pointer to the first zero
             int j = -1;
 
@@ -37,7 +37,7 @@ public class moveZeroes {
         public static void main(String[] args) {
             moveZeroes sol = new moveZeroes();
             int[] nums = {0, 1, 0, 3, 12};
-            sol.moveZeroes(nums);
+            sol.moveZeroe(nums);
 
             // Print the result
             for (int num : nums) {
