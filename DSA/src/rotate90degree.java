@@ -13,6 +13,7 @@ public class rotate90degree {
 
             // Reverse each row
             for (int i = 0; i < n; i++) {
+            // Two pointer approche
                 int left = 0;
                 int right = n - 1;
 
