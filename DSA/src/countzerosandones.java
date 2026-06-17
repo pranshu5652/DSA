@@ -1,3 +1,5 @@
+//count the number of zerose and ones ...
+
 public class countzerosandones {
     static int[] countnum(int[] arr) {
         int zeronum = 0;

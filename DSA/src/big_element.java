@@ -1,3 +1,5 @@
+//find the max element in an array...
+
 import org.w3c.dom.ls.LSOutput;
 
 public class big_element {

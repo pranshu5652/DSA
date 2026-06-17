@@ -1,3 +1,6 @@
+//print the array in alternate order...
+
+
 public class alternateorder {
     static void al(int[] arr){
         int n=arr.length;
