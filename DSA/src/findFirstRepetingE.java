@@ -15,7 +15,7 @@ public class findFirstRepetingE {
         return -1;
     }
     public static void main(String[] args){
-        int[] arr={1,2,3,5,2};
+        int[] arr={1,3,2,3,5,2};
         int ans=repeat(arr);
         System.out.println(ans);
 
