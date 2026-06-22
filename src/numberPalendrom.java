@@ -1,3 +1,5 @@
+// check number is palendrom..
+
 public class numberPalendrom {
     private boolean isPalindrom(int x) {
         if (x < 0) {
@@ -12,6 +14,7 @@ public class numberPalendrom {
         }
         return reverse == xcopy;
     }
+
     public static void main(String[] args) {
         int x=121;
         numberPalendrom obj=new numberPalendrom();
