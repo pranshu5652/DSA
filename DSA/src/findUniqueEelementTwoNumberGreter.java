@@ -1,3 +1,5 @@
+// unique Element find...
+
 import java.util.HashMap;
 public class findUniqueEelementTwoNumberGreter {
     static int unique(int[] arr){
