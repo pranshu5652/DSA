@@ -1,3 +1,6 @@
+// sort 0s , 1s,
+
+
 public class sort0and1 {
     static int[] sort01(int[] arr){
         int i=0;
