@@ -1,4 +1,4 @@
-// linear search...
+// linear search to find the target
 public class find_element {
     static boolean finde(int[] arr,int target){
         for(int i=0;i<arr.length;i++) {
