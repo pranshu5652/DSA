@@ -5,12 +5,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranshu5652/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/pranshu5652/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pranshu5652/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/pranshu5652/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pranshu5652/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranshu5652/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/pranshu5652/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/pranshu5652/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshu5652/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pranshu5652/DSA/tree/master/0162-find-peak-element) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pranshu5652/DSA/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/pranshu5652/DSA/tree/master/0229-majority-element-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranshu5652/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
@@ -85,6 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/pranshu5652/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/pranshu5652/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/pranshu5652/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/pranshu5652/DSA/tree/master/0410-split-array-largest-sum) |
 ## Stack
@@ -94,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pranshu5652/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pranshu5652/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
