@@ -111,8 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranshu5652/DSA/tree/master/0050-powx-n) |
+| [1486-xor-operation-in-an-array](https://github.com/pranshu5652/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranshu5652/DSA/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/pranshu5652/DSA/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
