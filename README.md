@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranshu5652/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/pranshu5652/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pranshu5652/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pranshu5652/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pranshu5652/DSA/tree/master/0031-next-permutation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pranshu5652/DSA/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/pranshu5652/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshu5652/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pranshu5652/DSA/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pranshu5652/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
