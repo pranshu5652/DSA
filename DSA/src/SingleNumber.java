@@ -1,4 +1,4 @@
-// Leetcode 136 Single number
+// Leetcode 136 Single number   find in array
 public class SingleNumber {
     static int singleNumber1(int[] nums) {
         int xorsum = 0;
