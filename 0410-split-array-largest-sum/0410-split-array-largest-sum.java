@@ -1,5 +1,5 @@
 
-
+// // time complexity O(nlog(sum))
 class Solution {
     public int splitArray(int[] nums, int k) {
         int low = Arrays.stream(nums).max().getAsInt(); // largest element (min possible answer)
