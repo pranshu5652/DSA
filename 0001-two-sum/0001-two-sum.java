@@ -1,4 +1,4 @@
-// two sum problem
+// Two sum problem not optimal approch
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
