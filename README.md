@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranshu5652/DSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/pranshu5652/DSA/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/pranshu5652/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshu5652/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pranshu5652/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pranshu5652/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/pranshu5652/DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
