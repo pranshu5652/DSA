@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pranshu5652/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshu5652/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/pranshu5652/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pranshu5652/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/pranshu5652/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranshu5652/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Union-Find
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pranshu5652/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pranshu5652/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pranshu5652/DSA/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranshu5652/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranshu5652/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/pranshu5652/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/pranshu5652/DSA/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/pranshu5652/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshu5652/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
