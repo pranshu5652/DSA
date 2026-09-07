@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pranshu5652/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranshu5652/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/pranshu5652/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/pranshu5652/DSA/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/pranshu5652/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
