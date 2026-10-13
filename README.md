@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pranshu5652/DSA/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/pranshu5652/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pranshu5652/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/pranshu5652/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pranshu5652/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pranshu5652/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pranshu5652/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranshu5652/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pranshu5652/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranshu5652/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Union-Find
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pranshu5652/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranshu5652/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/pranshu5652/DSA/tree/master/0561-array-partition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranshu5652/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pranshu5652/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranshu5652/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/pranshu5652/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranshu5652/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pranshu5652/DSA/tree/master/0704-binary-search) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pranshu5652/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pranshu5652/DSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/pranshu5652/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/pranshu5652/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranshu5652/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Quicksort
