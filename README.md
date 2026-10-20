@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pranshu5652/DSA/tree/master/0054-spiral-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/pranshu5652/DSA/tree/master/1688-count-of-matches-in-tournament) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/pranshu5652/DSA/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pranshu5652/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/pranshu5652/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/pranshu5652/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranshu5652/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
