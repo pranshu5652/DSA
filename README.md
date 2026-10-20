@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranshu5652/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/pranshu5652/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/pranshu5652/DSA/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/pranshu5652/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranshu5652/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/pranshu5652/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshu5652/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/pranshu5652/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/pranshu5652/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/pranshu5652/DSA/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/pranshu5652/DSA/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshu5652/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pranshu5652/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pranshu5652/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/pranshu5652/DSA/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/pranshu5652/DSA/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pranshu5652/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranshu5652/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -182,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/pranshu5652/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pranshu5652/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pranshu5652/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranshu5652/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranshu5652/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranshu5652/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
